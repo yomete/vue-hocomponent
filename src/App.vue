@@ -13,8 +13,8 @@ import Staff from "./components/Staff";
 // import the higher order component
 import HoComponent from "./components/HoComponent.js";
 
-// import the source data from mockdata only to be used for event handlers
-import sourceData from "./components/mockdata.js";
+// import the source data from mockData only to be used for event handlers
+import sourceData from "./components/mockData.js";
 
 // Create a const variable which contains the Companies component wrapped in the higher order component
 const CompaniesComponent = HoComponent(Companies, mockData =>

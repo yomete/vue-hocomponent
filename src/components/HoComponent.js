@@ -1,5 +1,5 @@
 import Vue from "vue";
-import mockData from "./mockdata.js";
+import mockData from "./mockData.js";
 
 const HoComponent = (component, fetchData) => {
   return Vue.component("HoComponent", {
