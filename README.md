@@ -1,8 +1,8 @@
 # Higher Order Components in Vue
 
-This project demonstrates how to use create higher order components in Vue. You can follow the tutorial at [blog.pusher.com]().
+This project demonstrates how to use create higher order components in Vue. You can follow the tutorial at [blog.pusher.com](https://pusher.com/tutorials/higher-order-components-vue).
 
-It was bootstrapped with [Vue CLI](https://pusher.com/tutorials/higher-order-components-vue).
+It was bootstrapped with [Vue CLI](https://cli.vuejs.org/).
 
 ## Getting started
 
