@@ -2,7 +2,7 @@
 
 This project demonstrates how to use create higher order components in Vue. You can follow the tutorial at [blog.pusher.com]().
 
-It was bootstrapped with [Vue CLI](https://cli.vuejs.org/).
+It was bootstrapped with [Vue CLI](https://pusher.com/tutorials/higher-order-components-vue).
 
 ## Getting started
 
